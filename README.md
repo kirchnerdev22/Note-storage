@@ -10,8 +10,6 @@ Open the deployed application.
 Click the start button.
 Enter a title, and text.
 Save it and it should populate on the left.
-## Contributions
-I attribute help to my Tutor, my teacher, stackoverflow.com, and a few friends.
 ## Questions
 If you have any questions, or bug reports, contact me at Github: https://github.com/kirchnerdev22 or Email: Trentonlkirchner@gmail.com
 ## PREVIEW
